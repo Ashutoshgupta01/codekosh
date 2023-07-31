@@ -1,0 +1,18 @@
+{
+  "server_status": "true",
+  "server_message": "Server maintenance break for few minutes",
+  "database_link": "https://sketchub.in/api/v2/",
+  "version": "41",
+  "category_version": "1",
+  "project_type_version": "1",
+  "necessary_update_version": "41",
+  "web_dialog": "false",
+  "web_dialog_url": "https://sketchub.in/dc_invite/",
+  "update_message": "• Added share button for user profiles\n• Fixed theme issues in various pages\n• Fixed \"the device is offline\" issue\n• More stability for Android 13 devices",
+  "update_link": "https://sketchub.in",
+  "project_share_link": "https://web.sketchub.in/p/{{PROJECT_ID}}",
+  "user_share_link": "https://web.sketchub.in/u/{{USER_NAME}}",
+  "payment_link": "https://www.paypal.me/rohitkumargd",
+  "java_link": "https://codehive.sketchub.in/api/",
+  "play_store_link": "https://play.google.com/store/apps/details?id=in.sketchub.app"
+}
