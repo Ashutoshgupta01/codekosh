@@ -1,5 +1,5 @@
 {
-  "server_status": "true",
+  "server_status": "false",
   "server_message": "Server maintenance break for few minutes",
   "database_link": "https://sketchub.in/api/v2/",
   "version": "41",
@@ -8,7 +8,7 @@
   "necessary_update_version": "41",
   "web_dialog": "false",
   "web_dialog_url": "https://sketchub.in/dc_invite/",
-  "update": "true",
+  "update": "false",
   "update_message": "• Added share button for user profiles\n• Fixed theme issues in various pages\n• Fixed \"the device is offline\" issue\n• More stability for Android 13 devices",
   "update_link": "https://codekosh-afi.github.io/codekosh.github.io/",
   "java_link": "https://codehive.sketchub.in/api/",
