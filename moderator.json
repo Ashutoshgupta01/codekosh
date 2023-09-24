@@ -1,0 +1,17 @@
+[
+    {
+        "name": "No moderator",
+        "uid": "asdad.com",
+        "avatar": "none"
+    },
+    {
+        "name": "Telegram",
+        "uid": "https://t.me/CodeKosh",
+        "avatar": "https://firebasestorage.googleapis.com/v0/b/codehouse-afi.appspot.com/o/Logo%5B1%5D.png?alt=media&token=8c73554f-014e-4052-a701-626e48e8f1e1"
+    },
+    {
+        "name": "Discord",
+        "uid": "https://discord.gg/NDWpVEtV",
+        "avatar": "https://firebasestorage.googleapis.com/v0/b/codehouse-afi.appspot.com/o/discord-mark-blue.png?alt=media&token=bd9ace30-53d2-4686-a4dd-7c6df845a6dd"
+    }
+]
