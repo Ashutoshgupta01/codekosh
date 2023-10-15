@@ -1,7 +1,7 @@
 [
     {
         "name": "Books & Reference",
-        "url": "none"
+        "url": "https://firebasestorage.googleapis.com/v0/b/codehouse-afi.appspot.com/o/book_FILL1_wght300_GRAD0_opsz24.png?alt=media&token=ba371897-42b0-490a-84f9-a887bb92ccd3"
     },
     {
         "name": "Business & Trading",
@@ -62,5 +62,5 @@
     {
         "name": "Videography",
         "url": "https://firebasestorage.googleapis.com/v0/b/codehouse-afi.appspot.com/o/Facebook_Logo_Primary%5B1%5D.png?alt=media&token=d6b74113-b356-4fc1-956c-9a2f4a392d9a"
-    },
+    }
 ]
