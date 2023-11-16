@@ -1,14 +1,11 @@
 {
   "server_status": "true",
   "server_message": "Server maintenance break for few minutes",
-  "version": "1",
-  "typo_version": "1.0.0",
+  "version": "2",
+  "typo_version": "1.0.1",
   "category_version": "1",
   "project_type_version": "1",
-  "necessary_update_version": "1",
-  "web_dialog": "false",
-  "update": "false",
+  "necessary_update_version": "2",
   "update_message": "• Material 3 designn\n• More user friendly\n• Bugs fixed\n• Removed *s errors *s \n• More *b stability *b for Android 13 devices",
-  "update_link": "https://codekosh-afi.github.io/codekosh.github.io/",
-  "java_link": "https://codehive.sketchub.in/api/"
+  "update_link": "https://codekosh-afi.github.io/codekosh.github.io/"
 }
