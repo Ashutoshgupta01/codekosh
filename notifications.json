@@ -1,13 +1,13 @@
 [
   {
     "date": "Nov 16, 2023",
-    "message": "- Project sharing that includes Android Studio, Sketchware, Sketchware Pro, AIDE, HTML projects.\n- Material 3 design.\n- Java codes.- Premium projects.\n- Fast loading.\n- Dark mode supported.\n- Dynamic theme support.\n- User-friendly app.\n- (*b.swb*b) projects in-built installer.\n- Multiple code-view themes..",
+    "message": "- Bugs fixed.\n- New *bUI*b implemented, to know about it refer *bChangeLog*b.\n- Storage Permission is only requested when you deal any action that is related to sketchware projects.",
     "title": "CodeKosh v1.0.1!",
     "url": "https://firebasestorage.googleapis.com/v0/b/codehouse-afi.appspot.com/o/desk.png?alt=media&token=555b3798-3ccf-4b27-b4c9-a5e568629194"
   },
   {
     "date": "Oct 30, 2023",
-    "message": "- Project sharing that includes Android Studio, Sketchware, Sketchware Pro, AIDE, HTML projects.\n- Material 3 design.\n- Java codes.- Premium projects.\n- Fast loading.\n- Dark mode supported.\n- Dynamic theme support.\n- User-friendly app.\n- (*b.swb*b) projects in-built installer.\n- Multiple code-view themes..",
+    "message": "- Project sharing that includes Android Studio, Sketchware, Sketchware Pro, AIDE, HTML projects.\n- Material 3 design.\n- Java codes.- Premium projects.\n- Fast loading.\n- Dark mode supported.\n- Dynamic theme support.\n- User-friendly app.\n- (*b.swb*b) projects in-built installer.\n- Multiple code-view themes.",
     "title": "CodeKosh v1.0.0!",
     "url": "https://firebasestorage.googleapis.com/v0/b/codehouse-afi.appspot.com/o/desk.png?alt=media&token=555b3798-3ccf-4b27-b4c9-a5e568629194"
   }
