@@ -3,7 +3,7 @@
   "serverMessage": "Server maintenance break for few minutes",
   "version": "2",
   "typoVersion": "1.0.1",
-  "necessaryUpdateVersion": "2",
+  "necessaryUpdateVersion": "1",
   "updateMessage": "• Material 3 designn\n• More user friendly\n• Bugs fixed\n• Removed *s errors *s \n• More *b stability *b for Android 13 devices",
   "update_link": "https://codekosh-afi.github.io/codekosh.github.io/"
 }
