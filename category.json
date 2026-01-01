@@ -1,66 +1,66 @@
 [
-    {
-        "name": "Books & Reference",
-        "url": "https://ashutoshgupta01.github.io/codekosh/icons/books.svg"
-    },
-    {
-        "name": "Business & Trading",
-        "url": "https://ashutoshgupta01.github.io/codekosh/icons/business.svg"
-    },
-    {
-        "name": "Communication",
-        "url": "https://ashutoshgupta01.github.io/codekosh/icons/communication.svg"
-    },
-    {
-        "name": "Education",
-        "url": "https://ashutoshgupta01.github.io/codekosh/icons/education.svg"
-    },
-    {
-        "name": "Entertainment",
-        "url": "https://ashutoshgupta01.github.io/codekosh/icons/entertainment.svg"
-    },
-    {
-        "name": "Example & Tutorial",
-        "url": "https://ashutoshgupta01.github.io/codekosh/icons/example.svg"
-    },
-    {
-        "name": "Games",
-        "url": "https://ashutoshgupta01.github.io/codekosh/icons/games.svg"
-    },
-    {
-        "name": "Multi-Device",
-        "url": "https://ashutoshgupta01.github.io/codekosh/icons/devices.svg"
-    },
-    {
-        "name": "Music & Audio",
-        "url": "https://ashutoshgupta01.github.io/codekosh/icons/music.svg"
-    },
-    {
-        "name": "Other",
-        "url": "https://ashutoshgupta01.github.io/codekosh/icons/other.svg"
-    },
-    {
-        "name": "Photographic",
-        "url": "https://ashutoshgupta01.github.io/codekosh/icons/photo.svg"
-    },
-    {
-        "name": "Productivity",
-        "url": "https://ashutoshgupta01.github.io/codekosh/icons/productivity.svg"
-    },
-    {
-        "name": "Social",
-        "url": "https://ashutoshgupta01.github.io/codekosh/icons/social.svg"
-    },
-    {
-        "name": "Tools",
-        "url": "https://ashutoshgupta01.github.io/codekosh/icons/tools.svg"
-    },
-    {
-        "name": "UI & UX",
-        "url": "https://ashutoshgupta01.github.io/codekosh/icons/ui.svg"
-    },
-    {
-        "name": "Videography",
-        "url": "https://ashutoshgupta01.github.io/codekosh/icons/video.svg"
-    }
+  {
+    "name": "Books & Reference",
+    "url": "https://ashutoshgupta01.github.io/codekosh/icons/books.png"
+  },
+  {
+    "name": "Business & Trading",
+    "url": "https://ashutoshgupta01.github.io/codekosh/icons/business.png"
+  },
+  {
+    "name": "Communication",
+    "url": "https://ashutoshgupta01.github.io/codekosh/icons/communication.png"
+  },
+  {
+    "name": "Education",
+    "url": "https://ashutoshgupta01.github.io/codekosh/icons/education.png"
+  },
+  {
+    "name": "Entertainment",
+    "url": "https://ashutoshgupta01.github.io/codekosh/icons/entertainment.png"
+  },
+  {
+    "name": "Example & Tutorial",
+    "url": "https://ashutoshgupta01.github.io/codekosh/icons/example.png"
+  },
+  {
+    "name": "Games",
+    "url": "https://ashutoshgupta01.github.io/codekosh/icons/games.png"
+  },
+  {
+    "name": "Multi-Device",
+    "url": "https://ashutoshgupta01.github.io/codekosh/icons/devices.png"
+  },
+  {
+    "name": "Music & Audio",
+    "url": "https://ashutoshgupta01.github.io/codekosh/icons/music.png"
+  },
+  {
+    "name": "Other",
+    "url": "https://ashutoshgupta01.github.io/codekosh/icons/other.png"
+  },
+  {
+    "name": "Photographic",
+    "url": "https://ashutoshgupta01.github.io/codekosh/icons/photo.png"
+  },
+  {
+    "name": "Productivity",
+    "url": "https://ashutoshgupta01.github.io/codekosh/icons/productivity.png"
+  },
+  {
+    "name": "Social",
+    "url": "https://ashutoshgupta01.github.io/codekosh/icons/social.png"
+  },
+  {
+    "name": "Tools",
+    "url": "https://ashutoshgupta01.github.io/codekosh/icons/tools.png"
+  },
+  {
+    "name": "UI & UX",
+    "url": "https://ashutoshgupta01.github.io/codekosh/icons/ui.png"
+  },
+  {
+    "name": "Videography",
+    "url": "https://ashutoshgupta01.github.io/codekosh/icons/video.png"
+  }
 ]
